@@ -1,1 +1,10 @@
-Hello This is Ford motor internship 2019
+$ mkdir git_reset_test
+$ cd git_reset_test/
+$ git init .
+Initialized empty Git repository in /git_reset_test/.git/
+$ touch reset_ford_file
+$ git add reset_ford_file
+$ git commit -m"initial commit"
+[master (root-commit) d386d86] initial commit
+1 file changed, 0 insertions(+), 0 deletions(-)
+create mode 100644 reset_ford_file
